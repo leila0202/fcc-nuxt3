@@ -1,6 +1,7 @@
 <script setup>
-const route = useRoute();
-console.log("🚀 ~ file: [id].vue:3 ~ route:", route.params)
+const nuxt = useNuxtApp()
+console.log("🚀 ~ file: [id].vue:3 ~ nuxt:", nuxt)
+
 
 
 </script>
