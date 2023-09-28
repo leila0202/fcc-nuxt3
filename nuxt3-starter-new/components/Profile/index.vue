@@ -1,6 +1,6 @@
 <template>
   <div>
-    Profile component
+    <ProfileHeader />
   </div>
 </template>
 
