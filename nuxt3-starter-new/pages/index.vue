@@ -1,9 +1,8 @@
 
 
 <template>
-    <div>
-        <Alert/>
-        <Profile />
+    <div class="Main">
+        Main
     </div>
 </template>
 
