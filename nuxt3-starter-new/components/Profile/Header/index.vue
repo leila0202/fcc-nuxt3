@@ -3,7 +3,8 @@
 </script>
 
 <template>
-    <div>
-        Profille Header
+    <div class="ProfileHeader">
+        ProfileHeader
+        <ProfileHeaderAvatar/>
     </div>
 </template>
