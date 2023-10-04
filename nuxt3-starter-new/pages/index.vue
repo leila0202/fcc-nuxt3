@@ -2,8 +2,9 @@
 
 <template>
     <div class="Main">
-        Main
+        Hello Nuxt 3
     </div>
+    <img src="@/assets/img/2.jpg" alt="First image" />
 </template>
 
 
